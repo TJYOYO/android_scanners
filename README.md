@@ -26,5 +26,5 @@ github：https://github.com/chentao0707/ZXingProject
 ![shot-002.png](http://upload-images.jianshu.io/upload_images/909565-4d8c6f3b3eac5983.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-上面对两个精简的库的测试demo分拨对应SampleOne和SampleTwo, 可以去下载在github中
+**如果想要简单的使用的，我上面对两个精简的库的测试demo分拨对应SampleOne和SampleTwo, 可以去下载在github中**
 欢迎github上关注哦，嘿嘿！
