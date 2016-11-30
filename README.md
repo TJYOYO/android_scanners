@@ -9,7 +9,7 @@ Adnroid开发有四款扫描器，Zxing 、Zbar ，Barcode4J、OkapiBarcode 应�
 github： https://github.com/journeyapps/zxing-android-embedded
 >可以自定义的部分比较多
 
-![shot-1.png](http://upload-images.jianshu.io/upload_images/909565-65d3c35018735d3a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![shot-1.png](https://github.com/George-Soros/android_scanners/blob/master/shot-1.png)
 
 
 ##精简二：Android-Zxing
@@ -23,11 +23,10 @@ github：https://github.com/chentao0707/ZXingProject
 
 >该项目时间有点久了，github上的也是eclipse创建的，可以看看。
 
-![shot-2.png](http://upload-images.jianshu.io/upload_images/909565-c8de4cb482008c81.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![shot-2.png](https://github.com/George-Soros/android_scanners/blob/master/shot-2.png)
 
 
 
 
-上面对两个精简的库的测试demo, 可以去下载在github地址:https://github.com/George-Soros/android_scanners
-
+上面对两个精简的库的测试demo分拨对应SampleOne和SampleTwo, 可以去下载在github中
 欢迎github上关注哦，嘿嘿！
